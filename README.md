@@ -1,2 +1,2 @@
 # todolist-example
-vuejs - Todolist
+Start with vuejs via examples
